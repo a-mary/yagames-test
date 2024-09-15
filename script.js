@@ -51,7 +51,6 @@ const gameContainer = document.getElementById('game-container');
 let isWin = false;
 let isYandexGameStarted = false;
 
-
 function initializeGame() {
     yandexLanguages();
     // console.log('init game')
@@ -268,7 +267,7 @@ function checkForMatch(cardEl) {
 
 
         setTimeout(() => {
-            window.navigator.vibrate(100);
+            window?.navigator?.vibrate?.(100);
 
             applyShakeAnimation(card1.id, card2.id, 'match', cardMatchAnimDuration);
 
@@ -359,7 +358,7 @@ restartButton.addEventListener('click', () => {
     }
     // isYandexGameStarted=false;
 
-    window.navigator.vibrate(35);
+    window?.navigator?.vibrate?.(35);
     initializeGame();
 
 });
@@ -616,8 +615,8 @@ document.querySelectorAll('.custom-select').forEach(select => {
 
     optionsItems.forEach(option => {
         option.addEventListener('click', () => {
-            window.navigator.vibrate(35);
-            // window.navigator.vibrate(25);
+            window?.navigator?.vibrate?.(35);
+            // window?.navigator?.vibrate?.(25);
 
             optionsItems.forEach(opt => opt.classList.remove('selected'));
             option.classList.add('selected');
