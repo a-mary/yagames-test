@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<svg width="397.7" height="397.7" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" enable-background="new 0 0 397.7 311.7" version="1.1" xml:space="preserve">
+ <style type="text/css">.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}</style>
+ <linearGradient gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse" id="SVGID_1_" x1="360.88" x2="141.21" y1="351.46" y2="-69.29">
+  <stop offset="0" stop-color="#00FFA3"/>
+  <stop offset="1" stop-color="#DC1FFF"/>
+ </linearGradient>
+ <linearGradient gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse" id="SVGID_2_" x1="264.83" x2="45.16" y1="401.6" y2="-19.15">
+  <stop offset="0" stop-color="#00FFA3"/>
+  <stop offset="1" stop-color="#DC1FFF"/>
+ </linearGradient>
+ <linearGradient gradientTransform="matrix(1 0 0 -1 0 314)" gradientUnits="userSpaceOnUse" id="SVGID_3_" x1="312.55" x2="92.88" y1="376.69" y2="-44.06">
+  <stop offset="0" stop-color="#00FFA3"/>
+  <stop offset="1" stop-color="#DC1FFF"/>
+ </linearGradient>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="st0" d="m64.6,280.9c2.4,-2.4 5.7,-3.8 9.2,-3.8l317.4,0c5.8,0 8.7,7 4.6,11.1l-62.7,62.7c-2.4,2.4 -5.7,3.8 -9.2,3.8l-317.4,0c-5.8,0 -8.7,-7 -4.6,-11.1l62.7,-62.7z" id="svg_1"/>
+  <path class="st1" d="m64.6,46.8c2.5,-2.4 5.8,-3.8 9.2,-3.8l317.4,0c5.8,0 8.7,7 4.6,11.1l-62.7,62.7c-2.4,2.4 -5.7,3.8 -9.2,3.8l-317.4,0c-5.8,0 -8.7,-7 -4.6,-11.1l62.7,-62.7z" id="svg_2"/>
+  <path class="st2" d="m333.1,163.1c-2.4,-2.4 -5.7,-3.8 -9.2,-3.8l-317.4,0c-5.8,0 -8.7,7 -4.6,11.1l62.7,62.7c2.4,2.4 5.7,3.8 9.2,3.8l317.4,0c5.8,0 8.7,-7 4.6,-11.1l-62.7,-62.7z" id="svg_3"/>
+ </g>
+</svg>
